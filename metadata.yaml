@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-Gil-Blas-of-Santillane-Volume-III-of-3_66679
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollet, T. (Tobias)
+    - Smollett, Tobias George
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: https://en.wikipedia.org/wiki/Tobias_Smollett
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Lesage, Alain-René
+    - Sage, Alain-René le
+    - Sage, Alain René Le
+    - Le Sage, Alain Rene
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2021-11-06'
+identifiers:
+  gutenberg: '66679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Adventures of Gil Blas of Santillane, Volume III (of 3)
+url: http://www.gutenberg.org/ebooks/66679
