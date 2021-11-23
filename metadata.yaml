@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '838'
     url: http://www.gutenberg.org/2009/agents/838
     wikipedia: https://en.wikipedia.org/wiki/Tobias_Smollett
+covers:
+- cover_type: archival
+  image_path: 66679-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Le Sage, Alain René
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66679#The-Adventures-of-Gil-Blas-of-Santillane-Volume-III-of-3
 gutenberg_issued: '2021-11-06'
 identifiers:
   gutenberg: '66679'
